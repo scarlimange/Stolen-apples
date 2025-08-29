@@ -3,6 +3,8 @@
 
 How to record any song from Apple Music loselessly and add to your personal collection
 
+Requirements: 'Background Music' and exiftool, both can be installed through homebrew (has to be updated for intel) but exiftool NEEDS to be.
+
 Download and install “Background Music” from [Here](https://github.com/kyleneideck/BackgroundMusic)
 
 Then open QuickTime Player and select “new audio recording” hit the little drop down arrow and select “Background music” (you will only need to do this step once unless you change it later)
